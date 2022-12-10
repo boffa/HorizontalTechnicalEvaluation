@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mainFragment"
+        android:icon="@drawable/characaters_icon"
+        android:title="Characters" />
+    <item
+        android:id="@+id/favoriteCharactersFragment"
+        android:icon="@drawable/favorite_icon"
+        android:title="FavoriteCharacters" />
+</menu>
